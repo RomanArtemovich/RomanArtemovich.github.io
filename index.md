@@ -7,9 +7,9 @@ title: Роман Холопов — Embedded Linux разработчик
 
 **Embedded Linux / BSP разработчик**
 
-- 📍 Город: _Москва_
-- 📧 E-mail: _RomanArtemovich1@gmail.com_
-- ✈️ Telegram: _<https://t.me/RomanArtemovich>_  
+- 📍 Город: Москва
+- 📧 E-mail: RomanArtemovich1@gmail.com
+- ✈️ Telegram: <https://t.me/RomanArtemovich>
 
 ---
 
