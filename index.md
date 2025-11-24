@@ -9,7 +9,7 @@ title: Роман Холопов — Embedded Linux разработчик
 
 - 📍 Город: _Москва_
 - 📧 E-mail: _RomanArtemovich1@gmail.com_
-- ✈️ Telegram: _https://t.me/RomanArtemovich_  
+- ✈️ Telegram: _<https://t.me/RomanArtemovich>_  
 
 ---
 
