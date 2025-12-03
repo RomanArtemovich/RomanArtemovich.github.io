@@ -11,6 +11,8 @@ title: Роман Холопов — Embedded Linux разработчик
 - 📧 E-mail: RomanArtemovich1@gmail.com
 - ✈️ Telegram: <https://t.me/RomanArtemovich>
 
+[Скачать резюме в формате PDF](https://github.com/RomanArtemovich/RomanArtemovich.github.io/raw/refs/heads/master/Роман%20Холопов%20—%20Embedded%20Linux%20разработчик.pdf?download=)
+
 ---
 
 ## О себе
